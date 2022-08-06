@@ -12,8 +12,8 @@ pragma solidity >=0.7.0 <0.9.0;
 contract ERC20 {
     // Attributes and events
     event Transfer(address from, address to, uint256 value);
-    event Approval(address owner, address spender, value);
-    
+    event Approval(address owner, address spender, uint256 value);
+
     mapping(address => uint256) private _balances;
     mapping(address => mapping(address => uint256)) private _allowances;
 
@@ -26,10 +26,10 @@ contract ERC20 {
 
     // Functions
 
-    constructor(string)
-
+    constructor(string memory name_, string memory symbol_) {
+        _name = name_;
+        _symbol = symbol_;
+    }
 }
 
-contract Steaks is ERC20 {
-
-}
+contract Steaks {}
