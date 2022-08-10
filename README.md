@@ -1,6 +1,6 @@
 # Submission to artemis-academy/prework
 
-# Objective
+## Objective
 
 Write a staking contract that allows for timelocked staking and variable reward rates. Ability to offer junior and senior reward rates, one after the other. 
 
