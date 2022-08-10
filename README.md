@@ -76,31 +76,21 @@ Next event:
 - This is the very first time I have tried to write any sort of smart contract code (and the first time in a long time I have written any sort of code at all). I started with reimplementing ERC20 contracts. I know these are solved problems but I find the best way for understanding things is to go through them yourself. My implementation is likely flawed
 
 ## Missing Requirements
-[X] Carefully comment your code.
-
-[] Write some unit tests for your code where it makes sense.
-
-[] Deploy your contracts to Goerli testnet.
-
-[] Save the addresses of the deployed contracts of your final solution.
-
-[X] Publish your solution in a secret GitHub Gist.
-
-[X] Be mindful of which GitHub account you use to create your Gist if you'd like to remain anonymous.
-
-[X] Share the link to the GitHub Repository with your solution, the addresses of the deployed contracts and your essay.
-
-[X] Feel free to use resources at your disposal such as Google, Solidity documentation, and/or any online learning tools.
-
-[X] We recommend using RemixIDE to develop your solution. [http://remix.ethereum.org](http://remix.ethereum.org/).
+- [X] Carefully comment your code.
+- [ ] Write some unit tests for your code where it makes sense.
+- [ ] Deploy your contracts to Goerli testnet.
+- [ ] Save the addresses of the deployed contracts of your final solution.
+- [X] Publish your solution in a secret GitHub Gist.
+- [X] Be mindful of which GitHub account you use to create your Gist if you'd like to remain anonymous.
+- [X] Share the link to the GitHub Repository with your solution, the addresses of the deployed contracts and your essay.
+- [X] Feel free to use resources at your disposal such as Google, Solidity documentation, and/or any online learning tools.
+- [X] We recommend using RemixIDE to develop your solution. [http://remix.ethereum.org](http://remix.ethereum.org/).
 
 ## Objectives from bootcamp
-[ ] Upskill software development 
-
-[ ] Learn code patterns to develop original smart contract ideas with minimal supervision
-
-[ ] Learn engineering practices to leverage common development tools and be able to contribute
+- [ ] Upskill software development 
+- [ ] Learn code patterns to develop original smart contract ideas with minimal supervision
+- [ ] Learn engineering practices to leverage common development tools and be able to contribute
 
 ## Criteria for success:
-[] Be in a position to add a meaningful contribution to a large open source smart contract project
-[] Deploy an original contract idea on mainnet
+- [ ] Be in a position to add a meaningful contribution to a large open source smart contract project
+- [ ] Deploy an original contract idea on mainnet
