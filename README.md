@@ -77,19 +77,29 @@ Next event:
 
 ## Missing Requirements
 [X] Carefully comment your code.
+
 [] Write some unit tests for your code where it makes sense.
+
 [] Deploy your contracts to Goerli testnet.
+
 [] Save the addresses of the deployed contracts of your final solution.
+
 [X] Publish your solution in a secret GitHub Gist.
+
 [X] Be mindful of which GitHub account you use to create your Gist if you'd like to remain anonymous.
+
 [X] Share the link to the GitHub Repository with your solution, the addresses of the deployed contracts and your essay.
+
 [X] Feel free to use resources at your disposal such as Google, Solidity documentation, and/or any online learning tools.
+
 [X] We recommend using RemixIDE to develop your solution. [http://remix.ethereum.org](http://remix.ethereum.org/).
 
 ## Objectives from bootcamp
-[] Upskill software development 
-[] Learn code patterns to develop original smart contract ideas with minimal supervision
-[] Learn engineering practices to leverage common development tools and be able to contribute
+[ ] Upskill software development 
+
+[ ] Learn code patterns to develop original smart contract ideas with minimal supervision
+
+[ ] Learn engineering practices to leverage common development tools and be able to contribute
 
 ## Criteria for success:
 [] Be in a position to add a meaningful contribution to a large open source smart contract project
